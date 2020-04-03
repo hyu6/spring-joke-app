@@ -1,4 +1,4 @@
-package dev.hyux.joke.springjokeapp;
+package dev.hyux.springjokeapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

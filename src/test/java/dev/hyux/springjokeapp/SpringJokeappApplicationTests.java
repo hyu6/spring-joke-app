@@ -1,4 +1,4 @@
-package dev.hyux.joke.springjokeapp;
+package dev.hyux.springjokeapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
